@@ -1,0 +1,67 @@
+.header{
+    background-color: #a6d9e0ff;
+    height: 70px;
+    }
+
+.header2{
+    font-family: "Hiragino Sans";
+    font-size: 19px;
+}
+
+li{
+    list-style:none;
+    padding:20px 30px 20px 30px;
+    }
+
+ul{
+    display:flex;
+}
+h2{
+    color: rgb(149, 187, 127);
+    background-color: rgb(251, 252, 229);
+
+}
+body {
+    background-color: rgb(251, 252, 229);
+}
+
+p{
+    font-family:"Tsukushi B Round Gothic";
+
+}
+img  {
+    width:500px;
+    height:480px;
+}
+
+.profile{
+    display: webkit-flex;
+    display: flex;
+    align-items:stretch;
+    justify-content:flex-start
+    padding: 10px;
+    font-size: 13px;
+}
+
+.profile div{
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.itiniti {
+    font-size: 13px;
+}
+
+.like {
+    font-size: 13px;
+}
+
+.hogoneko {
+    font-size: 13px;
+}
+
+.footer{
+    background-color: #a6d9e0ff;
+    height:40px;
+}
